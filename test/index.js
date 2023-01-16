@@ -1,8 +1,2 @@
-var a =5;
-var b =15;
-
-console.log(a+b);
-
-console.log("latest update");
-
-console.log("third update");
+var arr =["govind","deepak","sachin"];
+console.log(arr.join(" "));
